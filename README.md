@@ -1,6 +1,7 @@
 <h1 align="center">
   Hey There 👋, I'm Etienne BARDET
   <br>
+  <img src="./images/N7.jpg" alt="ENSEEIHT" height="250"/>
   <br>
   French Engineering Student @ <a href="https://www.enseeiht.fr">ENSEEIHT</a>
   <br>Specialised in<br>
