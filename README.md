@@ -1,8 +1,9 @@
 <h1 align="center">
   Hey There 👋, I'm Etienne BARDET
-  <br><br>
-  French Engineering Student @ ENSEEIHT
-  <br><br>Specialised in<br><br>
+  <br>
+  <br>
+  French Engineering Student @ <a href="https://www.enseeiht.fr">ENSEEIHT</a>
+  <br>Specialised in<br>
   AI and Signal Processing
 </h1>
 
