@@ -13,9 +13,9 @@
 
 ## ❓ Who am I ?
 
-I'm a french Engineering student at Enseeiht in Toulouse, France. I love science and have been particularly interested by astronomy for around 6 years now. I am specialised in Signal Processing and AI. I love to learn about new topics and notably when they are space related. My syllabus includes image processing, keeping me close to my astrophoto hobby. As a student, I use this account mostly to keep track of my coding projects starting my second year out of three in engineering school. This Engineering diploma is equivalent to a Master in Engineering : it is done in 5 years, 2 in an intensive preparatory course and 3 in an engineering school.
+I'm a French Engineering student at Enseeiht in Toulouse, France. I love science and have been particularly interested by astronomy for around 6 years now. I am specialised in Signal Processing and AI. I love to learn about new topics, especially when they are space related. My syllabus includes image processing, keeping me close to my astrophoto hobby. As a student, I use this account mostly to keep track of my coding projects starting my second year out of three in engineering school. This Engineering diploma is equivalent to a Master in Engineering : it is done in 5 years, 2 in an intensive preparatory course, and 3 in an engineering school.
 <br><br>
-To avoid plagiarism issues, I keep my repositories private until the assignement has been graded. 
+To avoid plagiarism issues, I keep my repositories private until the assignment has been graded. 
 <br><br>
 Check out my LinkedIn here,
 <br>
@@ -27,10 +27,10 @@ Check out my LinkedIn here,
 </a>
 ## 💻 Projects I am working on 
 
-Throughout my years at ENSEEIHT, I've had the occasion to work on several projects, whether they are club related or not.
+Throughout my years at ENSEEIHT, I've had the occasion to work on several projects, whether they are club-related or not.
 <br><br>
-⚙️ Being Specialized in Deep Learning, one of my most important [project](https://github.com/Etienne-bdt/Deep-Decoding) is quite probably an implementation of Heckel and Hand's [Deep Decoder](https://arxiv.org/abs/1810.03982) (arXiv:1810.03982). 
-It has been one of the most complex and rewarding project as the implementation was done **before following the deep learning course**. This project is functionnal and has been __implemented in MATLAB__. Due to code plagiarism, this project is private until it has been graded. I will attempt a PyTorch implementation to acquire knowledge about the Python Libraries related to this field.
+⚙️ Being specialised in Deep Learning, one of my most important [project](https://github.com/Etienne-bdt/Deep-Decoding) is quite probably an implementation of Heckel and Hand's [Deep Decoder](https://arxiv.org/abs/1810.03982) (arXiv:1810.03982). 
+It has been one of the most complex and rewarding projects, as the implementation was done **before following the deep learning course**. This project is functional and has been __implemented in MATLAB__. Due to code plagiarism, this project is private until it has been graded. I will attempt a PyTorch implementation to acquire knowledge about the Python Libraries related to this field.
 <br><br>
 👁️ Other Projects I am proud of are : [Kmeans segmentation in C](https://github.com/Etienne-bdt/Projet-Image) using OpenCV and [SuperPixel Segmentation in MATLAB](https://github.com/Etienne-bdt/Modelisation)
 Both projects aim at teaching us the basis of computer vision using segmentation.
@@ -43,7 +43,7 @@ Both projects aim at teaching us the basis of computer vision using segmentation
 
 ### 🗾 This Summer
 
-During the summer, I will have the opportunity to travel to Kyoto in Japan. During 3 months, I will do an internship @ [KUAS](https://www.kuas.ac.jp/en/). This will be an inestimate opportunity to strengthen skills I acquired and learn more about remote sensing and deep learning methods notably using TensorFlow.
+During the summer, I will have the opportunity to travel to Kyoto, Japan. Starting from june and during the next 3 months, I will do an internship @ [KUAS](https://www.kuas.ac.jp/en/). This will be an invaluable opportunity to strengthen skills I acquired and learn more about remote sensing and deep learning methods, notably using TensorFlow.
 
 ### 🛤️ Next Year
   - GPS courses
@@ -59,10 +59,10 @@ ENSEEIHT allowed me to develop those skills particularly
 
 ## 🤝 Associative work 
 
-One of the biggest project I've had the occasion to work on is [Churros](https://git.inpt.fr/inp-net/churros) as a member of @inp-net.
+One of the biggest projects I've had the occasion to work on is [Churros](https://git.inpt.fr/inp-net/churros) as a member of @inp-net.
 With **only basic** HTML/CSS knowledge in september, I am now a full-stack developper on this project, having worked notably on the [shop section](https://git.inpt.fr/inp-net/churros/-/merge_requests/127) of the app !
 <br><br>
-Special skills I developped for this project :
+Special skills I developed for this project:
 <br>
 <img src="https://skillicons.dev/icons?i=ts,svelte,prisma,graphql,gitlab" />
 
