@@ -18,6 +18,31 @@ To avoid plagiarism issues, I keep my repositories private until the assignement
 
 Throughout my years at ENSEEIHT, I've had the occasion to work on several projects, whether they are club related or not.
 <br><br>
+⚙️ Being Specialized in Deep Learning, one of my most important [project](https://github.com/Etienne-bdt/Deep-Decoding) is quite probably an implementation of Heckel and Hand's [Deep Decoder](https://arxiv.org/abs/1810.03982) (arXiv:1810.03982). 
+It has been one of the most complex and rewarding project as the implementation was done **before following the deep learning course**. This project is functionnal and has been __implemented in MATLAB__. Due to code plagiarism, this project is private until it has been graded. I will attempt a PyTorch implementation to acquire knowledge about the Python Libraries related to this field.
+<br><br>
+👁️ Other Projects I am proud of are : [Kmeans segmentation in C](https://github.com/Etienne-bdt/Projet-Image) using OpenCV and [SuperPixel Segmentation in MATLAB](https://github.com/Etienne-bdt/Modelisation)
+Both projects aim at teaching us the basis of computer vision using segmentation.
+
+## 🕐 Upcoming Projects
+
+### 🎯Next Month 
+  - The deep learning introduction course, using python, pytorch and Jupyter Notebooks.
+  - Computationnal Statistics ...
+
+### 🗾 This Summer
+
+During the summer, I will have the opportunity to travel to Kyoto in Japan. During 3 months, I will do an internship @ [KUAS](https://www.kuas.ac.jp/en/). This will be an inestimate opportunity to strengthen skills I acquired and learn more about remote sensing and deep learning methods notably using TensorFlow.
+
+### 🛤️ Next Year
+  - GPS courses
+  - Audio processing with voice recognition
+  - Remote sensing course
+  - (Un)Supervised Learning
+  - Data Analysis course
+
+## 🤝 Associative work 
+
 One of the biggest project I've had the occasion to work on is [Churros](https://git.inpt.fr/inp-net/churros) as a member of @inp-net.
 With **only basic** HTML/CSS knowledge in september, I am now a full-stack developper on this project, having worked notably on the [shop section](https://git.inpt.fr/inp-net/churros/-/merge_requests/127) of the app !
 
