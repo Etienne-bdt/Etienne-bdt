@@ -25,26 +25,24 @@ Check out my LinkedIn here,
         alt="LinkedIn"
         style="width: 4%; padding-right: 1em;" />
 </a>
+## 💼 Projects I have completed 
+⚙️ Being specialised in Deep Learning, one of my most important [project](https://github.com/Etienne-bdt/Deep-Decoding) is quite probably an implementation of Heckel and Hand's [Deep Decoder](https://arxiv.org/abs/1810.03982) (arXiv:1810.03982). 
+It has been one of the most complex and rewarding projects, as the implementation was done **before following the deep learning course**. This project is functional and has been __implemented in MATLAB and JULIA__. <br><br>
+👁️ Other Projects I am proud of are : [Kmeans segmentation in C](https://github.com/Etienne-bdt/Projet-Image) using OpenCV and [SuperPixel Segmentation in MATLAB](https://github.com/Etienne-bdt/Modelisation)
+Both projects aim at teaching us the basis of computer vision using segmentation.<br><br>
+📡As a Signal Processing Major, I have had the occasion to work on several labs notably on Inverse problems, Computational Statistics and such ...
+Projects can be found in my repos.
+
+
 ## 💻 Projects I am working on 
 
 Throughout my years at ENSEEIHT, I've had the occasion to work on several projects, whether they are club-related or not.
 <br><br>
-⚙️ Being specialised in Deep Learning, one of my most important [project](https://github.com/Etienne-bdt/Deep-Decoding) is quite probably an implementation of Heckel and Hand's [Deep Decoder](https://arxiv.org/abs/1810.03982) (arXiv:1810.03982). 
-It has been one of the most complex and rewarding projects, as the implementation was done **before following the deep learning course**. This project is functional and has been __implemented in MATLAB__. Due to code plagiarism, this project is private until it has been graded. I will attempt a PyTorch implementation to acquire knowledge about the Python Libraries related to this field.
-<br><br>
-👁️ Other Projects I am proud of are : [Kmeans segmentation in C](https://github.com/Etienne-bdt/Projet-Image) using OpenCV and [SuperPixel Segmentation in MATLAB](https://github.com/Etienne-bdt/Modelisation)
-Both projects aim at teaching us the basis of computer vision using segmentation.
-
-## 🕐 Upcoming Projects
-
-### 🎯Next Month 
-  - The deep learning introduction course, using python, pytorch and Jupyter Notebooks.
-  - Computationnal Statistics ...
-
 ### 🗾 This Summer
 
 During the summer, I will have the opportunity to travel to Kyoto, Japan. Starting from june and during the next 3 months, I will do an internship @ [KUAS](https://www.kuas.ac.jp/en/). This will be an invaluable opportunity to strengthen skills I acquired and learn more about remote sensing and deep learning methods, notably using TensorFlow.
 
+## 🕐 Upcoming Projects
 ### 🛤️ Next Year
   - GPS courses
   - Audio processing with voice recognition
