@@ -38,12 +38,12 @@ Projects can be found in my repos.
 
 Throughout my years at ENSEEIHT, I've had the occasion to work on several projects, whether they are club-related or not.
 <br><br>
-### 🗾 This Summer
+### 🗾 Summer 2024
 
-During the summer, I will have the opportunity to travel to Kyoto, Japan. Starting from june and during the next 3 months, I will do an internship @ [KUAS](https://www.kuas.ac.jp/en/). This will be an invaluable opportunity to strengthen skills I acquired and learn more about remote sensing and deep learning methods, notably using TensorFlow.
+During the summer of 2024, I had the opportunity to travel to Kyoto, Japan. From june to August, I conducted an internship @ [KUAS](https://www.kuas.ac.jp/en/). This was an invaluable opportunity to strengthen skills I had already acquired at school and learn more about remote sensing and deep learning methods, notably using TensorFlow.
 
 ## 🕐 Upcoming Projects
-### 🛤️ Next Year
+### 🛤️ This Year
   - GPS courses
   - Audio processing with voice recognition
   - Remote sensing course
