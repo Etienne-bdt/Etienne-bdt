@@ -53,7 +53,7 @@ During the summer of 2024, I had the opportunity to travel to Kyoto, Japan. From
 ## 🐈☕🥐 Skills
 ENSEEIHT allowed me to develop those skills particularly
 <br>
-<img src="https://skillicons.dev/icons?i=matlab,python,tensorflow,git,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=matlab,python,pytorch,tensorflow,git,c,cpp"/>
 
 ## 🤝 Associative work 
 
