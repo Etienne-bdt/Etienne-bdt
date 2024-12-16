@@ -62,7 +62,7 @@ With **only basic** HTML/CSS knowledge in september, I am now a full-stack devel
 <br><br>
 Special skills I developed for this project:
 <br>
-<img src="https://skillicons.dev/icons?i=ts,svelte,prisma,graphql,gitlab" />
+<img src="https://skillicons.dev/icons?i=ts,svelte,prisma,graphql,gitlab,figma" />
 
 
 <div align="center">
