@@ -25,6 +25,9 @@ Check out my LinkedIn here,
         alt="LinkedIn"
         style="width: 4%; padding-right: 1em;" />
 </a>
+
+<img src=github-metrics.svg/>
+
 ## 💼 Projects I have completed 
 Throughout my years at ENSEEIHT, I've had the occasion to work on several projects, whether they are club-related or not.
 <br><br>
