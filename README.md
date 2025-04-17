@@ -2,6 +2,15 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20There%20!&section=header&textBg=false"/>
   <br>
+  <div>
+      <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" style="border-radius: 8px;">
+      <img src="https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch" style="border-radius: 8px;">
+      <img src="https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow" style="border-radius: 8px;">
+      <img src="https://img.shields.io/badge/-MATLAB-black?style=for-the-badge&logo=octave" style="border-radius: 8px;"> <!-- matlab logo doesn't exist :(-->
+      <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" style="border-radius: 8px;">
+      <img src="https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=overleaf" style="border-radius: 8px;">
+    </div>
+    <br>
   I'm Etienne BARDET
   <br>
   <img src="./images/N7.jpg" alt="ENSEEIHT" height="250"/>
