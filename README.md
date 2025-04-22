@@ -22,7 +22,7 @@
 
 ## ❓ Who am I ?
 
-I'm a French Engineering student at Enseeiht in Toulouse, France. I love science and have been particularly interested by astronomy for around 6 years now. I am specialised in Signal Processing and AI. I love to learn about new topics, especially when they are space related. My syllabus includes image processing, keeping me close to my astrophoto hobby. As a student, I use this account mostly to keep track of my coding projects starting my second year out of three in engineering school. This Engineering diploma is equivalent to a Master in Engineering : it is done in 5 years, 2 in an intensive preparatory course, and 3 in an engineering school. 
+I'm a French Engineering student at Enseeiht in Toulouse, France. I love science and have been particularly interested by astronomy for around 6 years now. I am specialised in Signal Processing and AI. I love to learn about new topics, especially when they are space related. My syllabus includes image processing, keeping me close to my astrophoto hobby. As a student, I use this account mostly to keep track of my coding projects starting from my second year out of three in engineering school. This Engineering diploma is equivalent to a Master in Engineering : it is done in 5 years, 2 in an intensive preparatory course, and 3 in an engineering school. 
 <br><br>
 Check out my LinkedIn here,
 <br>
@@ -39,11 +39,13 @@ Check out my LinkedIn here,
 Throughout my years at ENSEEIHT, I've had the occasion to work on several projects, whether they are club-related or not.
 <br><br>
 
-⚙️ Being specialised in Deep Learning, one of my most important [project](https://github.com/Etienne-bdt/Deep-Decoding) is quite probably an implementation of Heckel and Hand's [Deep Decoder](https://arxiv.org/abs/1810.03982) (arXiv:1810.03982). 
-It has been one of the most complex and rewarding projects, as the implementation was done **before following the deep learning course**. This project is functional and has been __implemented in MATLAB and JULIA__. <br><br>
+⚙️ Being specialised in Deep Learning, one of my most important project is [Caisen](https://github.com/Etienne-bdt/Caisen). CAdastre Interface SENtinel is an environment monitoring project. Depending on the french Cadastre given two years, it fetches new buildings and builds a dataset of change detection sentinel 2 images to predict the impact of future buildings. Due to computationnal and time constraint the project has been done using CNN and not Diffusion models but remains an area of improvement for our project.  
+It has been one of the most complex and rewarding projects, and has mobilized nine students for a few months. <br><br>
+
 👁️ Other Projects I am proud of are : [Kmeans segmentation in C](https://github.com/Etienne-bdt/Projet-Image) using OpenCV and [SuperPixel Segmentation in MATLAB](https://github.com/Etienne-bdt/Modelisation)
 Both projects aim at teaching us the basis of computer vision using segmentation.<br><br>
-📡As a Signal Processing Major, I have had the occasion to work on several labs notably on Inverse problems, Computational Statistics and such ...
+
+📡 As a Signal Processing Major, I have had the occasion to work on several labs notably on GPS signals, Inverse problems, Computational Statistics, Deep Learning and such ...
 Projects can be found in my repos.
 
 ### 🗾 Summer 2024
