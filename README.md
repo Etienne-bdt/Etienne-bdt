@@ -22,9 +22,7 @@
 
 ## ❓ Who am I ?
 
-I'm a French Engineering student at Enseeiht in Toulouse, France. I love science and have been particularly interested by astronomy for around 6 years now. I am specialised in Signal Processing and AI. I love to learn about new topics, especially when they are space related. My syllabus includes image processing, keeping me close to my astrophoto hobby. As a student, I use this account mostly to keep track of my coding projects starting my second year out of three in engineering school. This Engineering diploma is equivalent to a Master in Engineering : it is done in 5 years, 2 in an intensive preparatory course, and 3 in an engineering school.
-<br><br>
-To avoid plagiarism issues, I keep my repositories private until the assignment has been graded. 
+I'm a French Engineering student at Enseeiht in Toulouse, France. I love science and have been particularly interested by astronomy for around 6 years now. I am specialised in Signal Processing and AI. I love to learn about new topics, especially when they are space related. My syllabus includes image processing, keeping me close to my astrophoto hobby. As a student, I use this account mostly to keep track of my coding projects starting my second year out of three in engineering school. This Engineering diploma is equivalent to a Master in Engineering : it is done in 5 years, 2 in an intensive preparatory course, and 3 in an engineering school. 
 <br><br>
 Check out my LinkedIn here,
 <br>
@@ -34,9 +32,9 @@ Check out my LinkedIn here,
         alt="LinkedIn"
         style="width: 4%; padding-right: 1em;" />
 </a>
-
-<img src=github-metrics.svg/>
-
+<div align="center">
+  <img src=github-metrics.svg/>
+</div>
 ## 💼 Projects I have completed 
 Throughout my years at ENSEEIHT, I've had the occasion to work on several projects, whether they are club-related or not.
 <br><br>
