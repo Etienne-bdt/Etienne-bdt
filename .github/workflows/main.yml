@@ -18,7 +18,7 @@ jobs:
         with:
           config_timezone: Europe/Paris
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_languages: yes
+          plugin_languages: no
           plugin_languages_sections: recently-used
           plugin_languages_limit: 0
           plugin_languages_recent_load: 800
@@ -26,7 +26,6 @@ jobs:
           plugin_languages_aliases: RenderScript:Rust
           plugin_languages_ignored: Hack,Roff,TeX,C
           # plugin_stargazers: yes
-          plugin_achievements: yes
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_notable: yes
