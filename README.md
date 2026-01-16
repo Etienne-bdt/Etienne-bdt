@@ -15,14 +15,14 @@
   <br>
   <img src="./images/N7.jpg" alt="ENSEEIHT" height="250"/>
   <br>
-  French Engineering Student @ <a href="https://www.enseeiht.fr">ENSEEIHT</a>
+  French Engineer @ <a href="https://www.enseeiht.fr">ENSEEIHT</a>
   <br>Specialised in<br>
   AI and Signal Processing
 </h1>
 
 ## ❓ Who am I ?
 
-I'm a French Engineering student at Enseeiht in Toulouse, France. I love science and have been particularly interested by astronomy for around 6 years now. I am specialised in Signal Processing and AI. I love to learn about new topics, especially when they are space related. My syllabus includes image processing, keeping me close to my astrophoto hobby. As a student, I use this account mostly to keep track of my coding projects starting from my second year out of three in engineering school. This Engineering diploma is equivalent to a Master in Engineering : it is done in 5 years, 2 in an intensive preparatory course, and 3 in an engineering school. 
+I'm a PhD candidate at ISAE-SUPAERO and French Engineer from Enseeiht in Toulouse, France. I love science and have been particularly interested by astronomy for around 6 years now. I am specialised in Signal Processing and AI. I love to learn about new topics, especially when they are space related. This Engineering diploma is equivalent to a Master in Engineering : it is done in 5 years, 2 in an intensive preparatory course, and 3 in an engineering school. I love astrophotography and have worked on several small projects related to that 🔭.
 <br><br>
 Check out my LinkedIn here,
 <br>
@@ -53,20 +53,15 @@ Projects can be found in my repos.
 
 During the summer of 2024, I had the opportunity to travel to Kyoto, Japan. From june to August, I conducted an internship @ [KUAS](https://www.kuas.ac.jp/en/). This was an invaluable opportunity to strengthen skills I had already acquired at school and learn more about remote sensing and deep learning methods, notably using TensorFlow.
 
+###  Summer 2025
+Up until September I worked as an intern @ [ISAE-SUPAERO](https://isae-supaero.fr) in the [DISC](https://www.isae-supaero.fr/fr/recherche/departements/ingenierie-systemes-complexes/groupe-systemes-decisionnels-462/) department.
+It focused on uncertainty mesurement in the Earth Observation field using [Generative AI](https://en.wikipedia.org/wiki/Variational_autoencoder) (the good kind), feel free to [have a look](https://github.com/Etienne-bdt/Super-Resolution-VAE).
+
 
 ## 💻 Projects I am working on 
 
-###  This Year
-Up until September I will be working as an intern @ [ISAE-SUPAERO](https://isae-supaero.fr) in the [DISC](https://www.isae-supaero.fr/fr/recherche/departements/ingenierie-systemes-complexes/groupe-systemes-decisionnels-462/) department.
-It focuses on uncertainty mesurement in the Earth Observation field using [Generative AI](https://en.wikipedia.org/wiki/Variational_autoencoder) (the good kind).
-
 ### Side projects 
 I contribute sporadically on the [Immich](https://github.com/immich-app/immich) repository and got into self-hosting this year.
-
-## 🕐 Upcoming Projects
-### 🛤️ Next year ?
-
-This internship might evolve into a PhD opportunity.
 
 ## 🐈☕🥐 Skills
 ENSEEIHT allowed me to develop those skills particularly
